@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725313885 source:e:\unla\4to año\distribuidos\clienteuserpass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
